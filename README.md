@@ -20,7 +20,7 @@
 ## ⚙️ &nbsp; 소개
 
 ```yaml
-name     : "Your Name"
+name     : "JANG SANG MIN"
 location : "Seoul, South Korea 🇰🇷"
 role     : "Backend Developer"
 passion  : ["Clean Code", "System Design", "Classic Motorcycles 🏍️"]
@@ -30,6 +30,17 @@ status   : "Currently shipping in production"
 
 <br/>
 
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&hide_border=false" />)
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thermoCat&layout=compact&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&text_color=ffffff&hide_border=false" />)
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thermoCat&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=ff6b35&currStreakLabel=c9a84c" />
+</div>
 
 ## 🔧 &nbsp; 기술 스택
 
@@ -76,7 +87,7 @@ status   : "Currently shipping in production"
 <br/>
 
 
-<div>
+<div align="center">
 
 [//]: # (![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=dark&#41;)
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=thermoCat&layout=compact&theme=dark&#41;)
@@ -84,18 +95,6 @@ status   : "Currently shipping in production"
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thermoCat&theme=github_dark" />
 </div>
 
-
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&hide_border=false" />)
-[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thermoCat&layout=compact&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&text_color=ffffff&hide_border=false" />)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thermoCat&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=ff6b35&currStreakLabel=c9a84c" />
-</div>
 
 <br/>
 
