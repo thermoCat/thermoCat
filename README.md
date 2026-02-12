@@ -80,19 +80,24 @@ status   : "Currently shipping in production"
 ---
 
 <div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=transparent)
+
+[//]: # (![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=dark&#41;)
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=thermoCat&layout=compact&theme=dark&#41;)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thermoCat&theme=github_dark" />
 </div>
 
 ---
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thermoCat&layout=compact&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&text_color=ffffff&hide_border=false" />
+
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thermoCat&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&hide_border=false" />)
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thermoCat&layout=compact&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&text_color=ffffff&hide_border=false" />)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=ff6b35&currStreakLabel=c9a84c" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thermoCat&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=ff6b35&currStreakLabel=c9a84c" />
 </div>
 
 <br/>
@@ -103,10 +108,10 @@ status   : "Currently shipping in production"
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsm04010@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
-
 </div>
 
 <br/>
+
