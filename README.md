@@ -5,8 +5,7 @@
 <div align="center">
 
 <!-- 상단 배너 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=header&text=&fontSize=0" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=120&section=header" />
 
 <!-- 타이틀 -->
 <h1>
@@ -31,7 +30,6 @@ status   : "Currently shipping in production"
 
 <br/>
 
----
 
 ## 🔧 &nbsp; 기술 스택
 
@@ -77,7 +75,6 @@ status   : "Currently shipping in production"
 
 <br/>
 
----
 
 <div>
 
@@ -87,7 +84,7 @@ status   : "Currently shipping in production"
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thermoCat&theme=github_dark" />
 </div>
 
----
+
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
@@ -102,16 +99,16 @@ status   : "Currently shipping in production"
 
 <br/>
 
----
 
 ## 📬 &nbsp; Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsm04010@naver.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=80&section=footer" />
 <br/>
 
