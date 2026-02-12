@@ -8,12 +8,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=120&section=header" />
 
 <!-- 타이틀 -->
-<h1>
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=40&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&height=70&lines=Backend+Developer;Server-Side+Architect;API+Craftsman" alt="Typing SVG" />
 </h1>
-
-
-</div>
+</p>
 
 
 <!-- ## ⚙️ &nbsp; 소개
